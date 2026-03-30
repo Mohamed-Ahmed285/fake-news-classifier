@@ -1,0 +1,16 @@
+# Data Manipulation and Analysis
+pandas
+numpy
+
+# Text Preprocessing (Natural Language Toolkit)
+nltk
+
+# Machine Learning, Feature Extraction (TF-IDF, BoW), and Evaluation
+scikit-learn
+
+# Data Visualization (For EDA)
+matplotlib
+seaborn
+
+# Interactive Notebooks (For the notebooks/ directory)
+jupyterlab
