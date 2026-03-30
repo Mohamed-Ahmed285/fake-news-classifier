@@ -15,8 +15,8 @@ We are using the **Fake News Dataset** for this project.
 **1. Clone the repository**
 
 ```bash
-git clone []
-cd []
+git clone https://github.com/Mohamed-Ahmed285/fake-news-classifier.git
+cd fake-news-classifier
 ```
 
 **2. Set up a virtual environment (Recommended)**
