@@ -4,6 +4,7 @@ numpy
 
 # Text Preprocessing (Natural Language Toolkit)
 nltk
+tensorflow
 
 # Machine Learning, Feature Extraction (TF-IDF, BoW), and Evaluation
 scikit-learn
@@ -11,6 +12,7 @@ scikit-learn
 # Data Visualization (For EDA)
 matplotlib
 seaborn
+plotly
 
 # Interactive Notebooks (For the notebooks/ directory)
 jupyterlab
